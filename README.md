@@ -1,2 +1,0 @@
-# portfolio
-Operations Manager Portfolio
